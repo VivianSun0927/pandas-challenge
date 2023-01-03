@@ -1,0 +1,23 @@
+PyCitySchools Challenge Report
+
+Summary of Data
+Through this challenge, we were given two sets of data that have correlating information between schools, the budget, students attending, and more. With this data we were able to create Dataframes that provided several details that could further improve our understanding of the state of the schools as well as student performances. The Dataframes we created were as follows:
+* Overall summary of school districts
+* Summary of individual schools
+* Top 5 performing schools
+* Bottom 5 performing schools
+* Average Math scores based on grade year
+* Average Reading scores based on grade year
+* Average scores based on student spending
+* Average scores based on school size
+* Average scores based on school type
+With these sets of data we are able to analyze the details and draw conclusions from the results.
+
+Budget Influence on School Performance
+After compiling all data and visually displaying them through formatted Dataframes I was able to determine that the vast majority of schools that had highest budgets consistently fulfilled the top performances out of all schools. By contrast, if we take a look at the lowest performing schools, the ones with the lowest budgets were making it into the list of the bottom five performances. 
+
+School District Performance Comparison
+In the final section of the set of data we set up a small Dataframe that compared the overall average passing rate in association with the schools’ typing. Based on the data shown in the scores by school type section, we can clearly see that overall Charter school types are currently outperforming District school types in terms of passing Math, Reading, and Overall Performance.
+
+
+
